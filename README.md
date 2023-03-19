@@ -1,18 +1,17 @@
-# Code_challenge
-Write your after
+Easy solver
+My Project is called easy solver 
 
-inputGrade-variable for the input Garde
+INTODUCTION
+My project is based on calculation of numerous individualls for isntance it can be used to calcute taxes,grades and even speed limit
 
-inputSpeed-variable for the input Speed
+Installation
+you can just fork my reppository by git clone my code and used it to run my code
 
-inputSalary-Variable for the Input Salary
+example
+it can be used to in calculating ones taxes 
 
+License
 
-your Code should come after
-// write Code For the Code challenge
-
-assign your output to the finalOutput variable
-
-
-# YOUR README DESCRIPTION STARTS HERE
-
+Credits
+I used videos with contributed in creating of this project
+https://www.youtube.com/watch?v=JbR_WSuxz4A
